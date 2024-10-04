@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Recycle_view</string>
+    <string name="roll_no">roll no</string>
+    <string name="name">name</string>
+    <string name="myclass">class</string>
+    <string name="update">update</string>
+    <string name="delete">delete</string>
+    <string name="add">add</string>
 </resources>

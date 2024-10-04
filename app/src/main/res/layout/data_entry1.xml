@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:id="@+id/edtadd1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="enter title"
+        android:paddingTop="40dp"
+        android:textSize="25sp"
+
+        />
+
+    <EditText
+        android:id="@+id/edtadd2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="enter description"
+        android:paddingTop="40dp"
+        android:textSize="25sp"
+        />
+    <Button
+        android:id="@+id/btnadd2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Add"
+        android:textSize="30sp"/>
+
+</LinearLayout>
